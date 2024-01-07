@@ -3253,25 +3253,25 @@ header.header-three {
     letter-spacing: -1px; }
     @media (max-width: 1199px) {
       .testimonial-section-three .testimonial-items .testimonial-item .content {
-        font-size: 32px; } }
+        font-size: 20px; } }
     @media (max-width: 991px) {
       .testimonial-section-three .testimonial-items .testimonial-item .content {
-        font-size: 25px; } }
+        font-size: 20px; } }
     @media (max-width: 767px) {
       .testimonial-section-three .testimonial-items .testimonial-item .content {
-        font-size: 22px; } }
+        font-size: 20px; } }
     @media (max-width: 575px) {
       .testimonial-section-three .testimonial-items .testimonial-item .content {
         font-size: 20px; } }
   .testimonial-section-three .testimonial-items .testimonial-item .quote-top,
   .testimonial-section-three .testimonial-items .testimonial-item .quote-bottom {
     color: #3b6c77;
-    font-size: 35px;
+    font-size: 20px;
     position: relative; }
     @media (max-width: 767px) {
       .testimonial-section-three .testimonial-items .testimonial-item .quote-top,
       .testimonial-section-three .testimonial-items .testimonial-item .quote-bottom {
-        font-size: 25px; } }
+        font-size: 20px; } }
   .testimonial-section-three .testimonial-items .testimonial-item .quote-top {
     margin-right: 10px;
     top: -10px; }
@@ -3281,12 +3281,12 @@ header.header-three {
   .testimonial-section-three .testimonial-items .testimonial-item .author {
     margin-top: 40px; }
     .testimonial-section-three .testimonial-items .testimonial-item .author h4 {
-      font-size: 25px;
+      font-size: 20px;
       font-weight: 600;
       color: #fff; }
       @media (max-width: 575px) {
         .testimonial-section-three .testimonial-items .testimonial-item .author h4 {
-          font-size: 22px; } }
+          font-size: 20px; } }
     .testimonial-section-three .testimonial-items .testimonial-item .author span {
       font-weight: 700;
       font-size: 16px;
